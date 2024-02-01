@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcpsantiago
-- 👀 I’m interested in data science, functional programming and building bikes
-- 🌱 I’m currently learning Clojure and how to build Feature Stores
+- 👀 I’m interested in data science, functional programming and cycling
+- 🌱 I’m currently building a medical publishing company and a ClojureDart mobile app (knowuro.com)
 - 💞️ I’m looking to collaborate on data science/data engineering tools
 - 📫 Reach me via my website jcpsantiago.xyz
 
